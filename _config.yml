@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://romulo1984.github.io
+title: Bigh
+email: romulo1984@gmail.com
+author: Rômulo Guimarães
+description: My awesome new site
+paginate: 5
+google_analytics: 
